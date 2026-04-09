@@ -17,12 +17,7 @@ Selain sebagai tempat penyimpanan, Array dalam kode ini juga menjadi fondasi bag
    Berikut rincian per bagian:
 
    Loop Mahasiswa (Lapis Luar): Saya menggunakan perulangan for i in range(jumlahMahasiswa). Kalau ada 100 mahasiswa, bagian ini jalan 100 kali. Ini disebut O(n).
-   '''python
-   for j in range(jumlahNilaiMahasiswa):
-    nilaiMahasiswa = float(input(f"  > Nilai ke-{j+1} : "))
-    daftarNilai_Mahasiswa.append(nilaiMahasiswa)
-   '''
-   
+
    Loop Nilai (Lapis Dalam): Di dalam setiap mahasiswa, ada lagi perulangan for j in range(jumlahNilaiMahasiswa). Jika setiap mahasiswa punya 10 nilai, maka total input nilai yang dilakukan komputer adalah 100 \times 10 = 1000 kali. Ini yang bikin rumusnya jadi O(n x k).
 
    Fungsi Kalkulasi (max, min, sum): Fungsi-fungsi bawaan Python ini bekerja secara "linear". Artinya, untuk nyari nilai tertinggi, Python harus ngecek nilai dari atas sampai bawah satu per satu. Jadi kalau nilainya ada k, butuh waktu O(k).
