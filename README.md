@@ -27,7 +27,8 @@ Di dalam kode, plt.show() ditaruh di dalam perulangan mahasiswa. Secara teknis, 
 Jadi, meskipun komputernya secepat kilat, performa aslinya bakal lambat karena harus menunggu "kecepatan tangan" manusia buat nge-klik tombol close grafik satu per satu.
 
 # Screenshot hasil eksekusi
-![image}(https://github.com/CherieHannanya/proyek-1-Struktur-Data/blob/6257cac8f9ceba1ebbbabc2899ea6f30b31bad95/Hasil%20Struktur%20data.png)
+![image](https://github.com/CherieHannanya/proyek-1-Struktur-Data/blob/6257cac8f9ceba1ebbbabc2899ea6f30b31bad95/Hasil%20Struktur%20data.png)
+![image]()
 #  Analisis Kompleksitas
 
 # Refleksi pembelajaran
