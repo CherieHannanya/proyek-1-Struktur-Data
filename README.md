@@ -1,5 +1,5 @@
 # Analisis Kompleksitas
-1. Analisis Kompleksitas Waktu (Seberapa Cepat?)
+1. Analisis Kompleksitas Waktu 
    
    Secara keseluruhan, kode saya memiliki kompleksitas O(n x k). Artinya, waktu jalan program akan meningkat seiring bertambahnya jumlah mahasiswa dikali jumlah nilai mereka.
    
