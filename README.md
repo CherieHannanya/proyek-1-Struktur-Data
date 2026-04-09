@@ -28,7 +28,7 @@ Jadi, meskipun komputernya secepat kilat, performa aslinya bakal lambat karena h
 
 # Screenshot hasil eksekusi
 ![image](https://github.com/CherieHannanya/proyek-1-Struktur-Data/blob/6257cac8f9ceba1ebbbabc2899ea6f30b31bad95/Hasil%20Struktur%20data.png)
-![image]()
+![image](https://github.com/CherieHannanya/proyek-1-Struktur-Data/blob/613e9b126335aedcd568fe0f90f2c09e1e0759eb/hasil%202%20struktur%20data.png) 
 #  Analisis Kompleksitas
 
 # Refleksi pembelajaran
